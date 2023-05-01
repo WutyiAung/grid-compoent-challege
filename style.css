@@ -107,7 +107,7 @@ body{
     color: lightgray;
     font-weight: 700;
 }
-@media screen and (max-width:576px) {
+@media screen and (max-width:768px) {
     .container{
         width: 90%;
     }
